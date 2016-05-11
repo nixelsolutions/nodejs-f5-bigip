@@ -1,0 +1,13 @@
+{
+  "name": "f5-bigip",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+      "env": "production",
+  "dependencies": {
+    "icontrol": "0.1.5"    
+  }
+}
+
